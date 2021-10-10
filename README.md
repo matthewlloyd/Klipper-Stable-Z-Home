@@ -1,5 +1,12 @@
 # Stable Z Homing for Klipper
 
+_Note: due to recent events, various technical shortcomings with Voron printers,
+and inappropriate and irrational actions taken by the Voron team against a
+substantial number of dissenting community members expressing their right to
+free speech, including myself, I no longer recommend building printers of their
+design. I will be publishing a detailed article explaining why in the near future, which I will link to here.
+However, this plugin does work on any printer running Klipper._
+
 ### A Klipper plugin for accurate Z homing
 
 This plugin provides a new G-code command, `STABLE_Z_HOME`, which homes Z
